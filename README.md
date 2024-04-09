@@ -1,6 +1,5 @@
 # Smart Resume Analyser App
 
-## [Get the project Report, PPT, and Diagrams](https://kushalbhavsar1820.stores.instamojo.com/product/864991/smart-resume-analyzer-ppt-report-and-diagram-c091f/)
 ## Source
 - Extracting user's information from the Resume, I used [PyResparser](https://omkarpathak.in/pyresparser/)
 - Extracting Resume PDF into Text, I used [PDFMiner](https://pypi.org/project/pdfminer/).
@@ -32,11 +31,3 @@
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
 - Admin side credentials is `machine_learning_hub` and password is `mlhub123`. 
-
-## Screenshots
-
-## User side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc1.png">
-
-## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
